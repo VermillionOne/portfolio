@@ -1,4 +1,4 @@
-# portfolio
+# Portfolio
 
 Tim Castillo's Portfolio Repo
 ----
